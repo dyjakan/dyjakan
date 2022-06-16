@@ -10,7 +10,7 @@ I run my own podcast [Bezpieczna Produkcja](https://bezpiecznykod.pl/podcast) �
 
 If this isn’t enough yet, I also have a [newsletter](https://appsec.pl) 🇵🇱 where I send valuable appsec materials to my subscribers (including *#Devs #QAs #Ops #Managers #CTOs #CISOs*).
 
-Do you have more questions? Shoot me an email at andrzej@dyjak.me or visit [my blog](https://dyjak.me) 🇵🇱:
+Do you have more questions? Shoot me an email at andrzej@dyjak.me or visit [my blog](https://dyjak.me) 🇵🇱.
 
 <!--
 **dyjakan/dyjakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
