@@ -2,7 +2,7 @@
 
 I'm the owner of [Bezpieczny Kod](https://bezpiecznykod.pl), a consulting and training company providing cybersecurity services. We help companies secure software on each phase of the SDLC.
 
-I’ve run application security workshops for several years now. I’ve also created an online appsec course: [Akademia Bezpiecznego Kodu](https://bezpiecznykod.pl/akademia/) 🇵🇱.
+I’ve run application security workshops for several years now. I’ve also created an online appsec course: [Ofensywne Testowanie Web Aplikacji (OTWA)](https://bezpiecznykod.pl/akademia/otwa/) 🇵🇱.
 
 One of my goals is to raise security awareness that’s why I regularly present at industry events, both local and international (e.g. We Are Developers, 4Developers, Boiling Frogs, The H@ck Summit, SEMAFOR, et cetera).
 
