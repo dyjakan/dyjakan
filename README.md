@@ -6,7 +6,7 @@ In recent years, I have trained hundreds of IT specialists (QA, Dev, Ops) in sub
 
 The demand I encountered from clients during trainings led me to offer consulting services. As a Trusted Advisor, I now assist companies in establishing and enhancing security for software they're developing.
 
-I'm also an active content creator. I'm building an open community around application security ([Discord](https://bezpiecznykod.pl/discord), run a [YouTube channel](https://www.youtube.com/@AndrzejDyjak) and [Podcast](https://bezpiecznykod.pl/podcast), and send out [a weekly newsletter](https://bezpiecznykod.pl/newsletter). I've also created an online course ["Offensive Testing of Web Applications"](https://ofensywnetestowanie.pl) (OTWA) and I'm already [building another one](https://abcdevsecops.pl) (on the topic of DevSecOps). My activities are aimed at educating and creating a space for IT professionals to exchange knowledge.
+I'm also an active content creator. I'm building an open community around application security [Discord](https://bezpiecznykod.pl/discord), run a [YouTube channel](https://www.youtube.com/@AndrzejDyjak) and [Podcast](https://bezpiecznykod.pl/podcast), and send out [a weekly newsletter](https://bezpiecznykod.pl/newsletter). I've also created an online course ["Offensive Testing of Web Applications"](https://ofensywnetestowanie.pl) (OTWA) and I'm already [building another one](https://abcdevsecops.pl) (on the topic of DevSecOps). My activities are aimed at educating and creating a space for IT professionals to exchange knowledge.
 
 <!--
 **dyjakan/dyjakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
