@@ -1,16 +1,12 @@
-### Hello there 👋
+### Hi, I'm Andrzej! 👋
 
-I'm the owner of [Bezpieczny Kod](https://bezpiecznykod.pl), a consulting and training company providing cybersecurity services. We help companies secure software on each phase of the SDLC.
+My cybersecurity career started over 15 years ago. During this time, I moved from hacking to securing, which has given me the perspective of both an attacker and a defender. I currently run a consulting and training company called [Bezpieczny Kod](https://bezpiecznykod.pl). In this role, I'm empowering teams with skills and advising on best practices for securing software across the SDLC.
 
-I’ve run application security workshops for several years now. I’ve also created an online appsec course: [Ofensywne Testowanie Web Aplikacji (OTWA)](https://ofensywnetestowanie.pl/) 🇵🇱.
+In recent years, I have trained hundreds of IT specialists (QA, Dev, Ops) in subjects such as Security Testing, Threat Modeling, DevSecOps, and Secure By Design. I emphasize hands-on learning in my trainings, ensuring that engineering teams can immediately put new skills to use in their day-to-day tasks.
 
-One of my goals is to raise security awareness that’s why I regularly present at industry events, both local and international (e.g. We Are Developers, 4Developers, Boiling Frogs, The H@ck Summit, SEMAFOR, et cetera).
+The demand I encountered from clients during trainings led me to offer consulting services. As a Trusted Advisor, I now assist companies in establishing and enhancing security for software they're developing.
 
-I run my own podcast [Bezpieczna Produkcja](https://bezpiecznykod.pl/podcast) 🇵🇱 in which I’m helping people working in IT to understand cybersecurity. I’m a big fan of podcasting myself, so I’m always eager to share my experience in other shows.
-
-If this isn’t enough yet, I also have a [newsletter](https://appsec.pl) 🇵🇱 where I send valuable appsec materials to my subscribers (including *#Devs #QAs #Ops #Managers #CTOs #CISOs*).
-
-Do you have more questions? Shoot me an email at hej@dyjak.me or visit [my blog](https://dyjak.me) 🇵🇱.
+I'm also an active content creator. I'm building an open community around application security ([Discord](https://bezpiecznykod.pl/discord), run a [YouTube channel](https://www.youtube.com/@AndrzejDyjak) and [Podcast](https://bezpiecznykod.pl/podcast), and send out [a weekly newsletter](https://bezpiecznykod.pl/newsletter). I've also created an online course ["Offensive Testing of Web Applications"](https://ofensywnetestowanie.pl) (OTWA) and I'm already [building another one](https://abcdevsecops.pl) (on the topic of DevSecOps). My activities are aimed at educating and creating a space for IT professionals to exchange knowledge.
 
 <!--
 **dyjakan/dyjakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
